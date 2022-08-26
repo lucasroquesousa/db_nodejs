@@ -1,0 +1,7 @@
+{
+  "name": "db_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucasroquesousa/db_nodejs.git",
+  "license": "MIT"
+}
